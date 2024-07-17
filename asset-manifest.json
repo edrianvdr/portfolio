@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3905fd39.css",
+    "main.js": "/portfolio/static/js/main.d63b4699.js",
+    "static/media/EVDR 02.png": "/portfolio/static/media/EVDR 02.f6e18c047a8fe32cdd37.png",
+    "static/media/2.1 Manga Store.png": "/portfolio/static/media/2.1 Manga Store.5c028a0d8846028c4dc5.png",
+    "static/media/2.2 PWD LIFE.png": "/portfolio/static/media/2.2 PWD LIFE.5c028a0d8846028c4dc5.png",
+    "static/media/2.4 CCSS Logo.png": "/portfolio/static/media/2.4 CCSS Logo.7ac1313cec20f55c6b1d.png",
+    "static/media/2.5 PNSB Logo.png": "/portfolio/static/media/2.5 PNSB Logo.7ac1313cec20f55c6b1d.png",
+    "static/media/2.6 Thesis Project.png": "/portfolio/static/media/2.6 Thesis Project.7ac1313cec20f55c6b1d.png",
+    "static/media/2.3 PWD Database.png": "/portfolio/static/media/2.3 PWD Database.f067899d1a1d722bd1fd.png",
+    "index.html": "/portfolio/index.html",
+    "main.3905fd39.css.map": "/portfolio/static/css/main.3905fd39.css.map",
+    "main.d63b4699.js.map": "/portfolio/static/js/main.d63b4699.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3905fd39.css",
+    "static/js/main.d63b4699.js"
+  ]
+}
