@@ -1,8 +1,8 @@
 import './index.css';
 
 import Header from './components/Header';
-import Navbar from './components/Navbar';
 import Footer from './components/Footer';
+import About from './components/About';
 import Project from './components/Project';
 import { useState } from 'react';
 
@@ -20,6 +20,8 @@ function App() {
       <Header />
       <div className="App">
 
+        <About />
+
         <h1 className='text-blue-800'>Edrian</h1>
         <input
           type="text"
@@ -29,6 +31,9 @@ function App() {
           }}
         />
 
+        <h2 className="font-bold text-gray-800 text-xl sm:text-2xl md:text-3xl lg:text-4xl mb-2 hover:text-gray-700 text-center">
+              Projects
+          </h2>
         <div className="flex flex-wrap max-w-4xl w-full sm:w-auto mx-auto grid gap-6 sm:grid-cols-2">
           <Project 
             name='Thesis' 
