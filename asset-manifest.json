@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2ccb19f6.css",
-    "main.js": "/portfolio/static/js/main.60b3ddfb.js",
+    "main.css": "/portfolio/static/css/main.242fe07f.css",
+    "main.js": "/portfolio/static/js/main.10fb224d.js",
     "static/media/Academic Excellence - 3rd year 2nd sem.png": "/portfolio/static/media/Academic Excellence - 3rd year 2nd sem.fc487f719f8d99f38587.png",
     "static/media/Academic Excellence - 3rd year 1st sem.png": "/portfolio/static/media/Academic Excellence - 3rd year 1st sem.5794adf5569580fc34ad.png",
     "static/media/Academic Excellence - 4th year.png": "/portfolio/static/media/Academic Excellence - 4th year.5794adf5569580fc34ad.png",
@@ -37,11 +37,11 @@
     "static/media/NodeJS.svg": "/portfolio/static/media/NodeJS.e55572852ea7a91f785f9c3a2102771a.svg",
     "static/media/Python.svg": "/portfolio/static/media/Python.62e8a4442709e711eb8c89041804c775.svg",
     "index.html": "/portfolio/index.html",
-    "main.2ccb19f6.css.map": "/portfolio/static/css/main.2ccb19f6.css.map",
-    "main.60b3ddfb.js.map": "/portfolio/static/js/main.60b3ddfb.js.map"
+    "main.242fe07f.css.map": "/portfolio/static/css/main.242fe07f.css.map",
+    "main.10fb224d.js.map": "/portfolio/static/js/main.10fb224d.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ccb19f6.css",
-    "static/js/main.60b3ddfb.js"
+    "static/css/main.242fe07f.css",
+    "static/js/main.10fb224d.js"
   ]
 }
