@@ -4,7 +4,7 @@ import edrianImage from '../assets/images/EVDR 02.png';
 
 function Header() {
     return (
-        <header className="bg-blue-800 text-white py-8">
+        <header className="bg-blue-800 text-white py-8 mb-4">
             <div className="container mx-auto grid grid-cols-1 md:grid-cols-12 text-center">
                 <div className="sm:col-span-7 flex flex-col justify-center items-center xl:pl-96">
                     <h1 className="text-3xl sm:text-4xl lg:text-5xl font-serif font-bold mt-4 mb-2">Edrian Delos Reyes</h1>

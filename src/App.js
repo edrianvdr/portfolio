@@ -6,6 +6,7 @@ import About from './components/About';
 import Project from './components/Project';
 import { useState } from 'react';
 
+// Images
 import inventorySystem from './assets/images/projects/2.1 Manga Store.png';
 import pwdLife from './assets/images/projects/2.2 PWD LIFE.png';
 import pwdDatabase from './assets/images/projects/2.3 PWD Database.png';
@@ -20,21 +21,10 @@ function App() {
       <Header />
       <div className="App">
 
-        <About />
-
-        <h1 className='text-blue-800'>Edrian</h1>
-        <input
-          type="text"
-          onChange={(e) => {
-            console.log(e.target.value);
-            setRole(e.target.value);
-          }}
-        />
-
         <h2 className="font-bold text-gray-800 text-xl sm:text-2xl md:text-3xl lg:text-4xl mb-2 hover:text-gray-700 text-center">
               Projects
           </h2>
-        <div className="flex flex-wrap max-w-4xl w-full sm:w-auto mx-auto grid gap-6 sm:grid-cols-2">
+        <div className="flex flex-wrap max-w-4xl w-full sm:w-auto mx-auto grid gap-8 sm:grid-cols-3">
           <Project 
             name='Thesis' 
             description='Developed a job hunting platform in a format of an e-commerce website featuring a recommendation algorithm to enhance user engagement.'
@@ -74,6 +64,8 @@ function App() {
         </div>
         {/* <Project name={role} /> */}
       </div>
+
+      <About />
 
       <Footer />
     </>
