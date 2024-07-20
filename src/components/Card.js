@@ -1,24 +1,27 @@
+import React from 'react';
+
 function Card(props) {
   return (
-    <>
-        <div className="max-w-sm bg-white border border-blue-800 rounded-lg shadow text-center p-1 hover:bg-blue-800 hover:text-white">
-            <div className="flex justify-center items-center h-72">
-                <img 
-                    src={ props.src } 
-                    alt={ props.alt } 
-                    className="max-h-full max-w-full object-cover" 
-                />
-            </div>
-            <div className="p-5">
-                <h3 className="mb-2 text-2xl font-bold tracking-tight">
-                    { props.title }
-                </h3>
-                <p className="mb-3">
-                    { props.description }
-                </p>
-            </div>
+    <div className="w-full sm:w-1/2 md:w-1/2 lg:w-1/3 xl:w-1/4 p-2 text-center">
+      <div className="flex flex-col h-full max-w-sm mx-auto bg-white border border-blue-800 rounded-lg shadow hover:bg-blue-800 hover:text-white">
+        <div className="flex-shrink-0 h-48 flex items-center justify-center">
+
+          <img 
+            src={props.src} 
+            alt={props.alt} 
+            className="max-h-full max-w-full object-cover" 
+          />
         </div>
-    </>
+        <div className="flex-1 p-4 flex flex-col">
+          <h3 className="mb-2 text-xl font-bold tracking-tight">
+            {props.title}
+          </h3>
+          <p className="text-sm flex-grow">
+            {props.description}
+          </p>
+        </div>
+      </div>
+    </div>
   );
 }
 

@@ -31,9 +31,6 @@ import ae3y2s from '../assets/images/about/certificates/Academic Excellence - 3r
 import ae4y from '../assets/images/about/certificates/Academic Excellence - 4th year.png';
 import championTnt from '../assets/images/about/certificates/Champion of DMCFI Tagisan ng Talino 2023.png';
 import championLmc from '../assets/images/about/certificates/Champion of Logo Making Contest.png';
-
-
-
 import academicExcellenceAward1 from '../assets/images/about/certificates/Academic Excellence Award - 1st Year - SY 2019-2020.jpg';
 import academicExcellenceAward2 from '../assets/images/about/certificates/Academic Excellence Award - 2nd Year - SY 2021-2022.jpg';
 import academicExcellenceAward3 from '../assets/images/about/certificates/Academic Excellence Award - 3rd Year - SY 2022-2023.jpg';
