@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.86a21d16.css",
-    "main.js": "/portfolio/static/js/main.2af064e1.js",
+    "main.css": "/portfolio/static/css/main.2ccb19f6.css",
+    "main.js": "/portfolio/static/js/main.60b3ddfb.js",
+    "static/media/Academic Excellence - 3rd year 2nd sem.png": "/portfolio/static/media/Academic Excellence - 3rd year 2nd sem.fc487f719f8d99f38587.png",
+    "static/media/Academic Excellence - 3rd year 1st sem.png": "/portfolio/static/media/Academic Excellence - 3rd year 1st sem.5794adf5569580fc34ad.png",
+    "static/media/Academic Excellence - 4th year.png": "/portfolio/static/media/Academic Excellence - 4th year.5794adf5569580fc34ad.png",
+    "static/media/Champion of DMCFI Tagisan ng Talino 2023.png": "/portfolio/static/media/Champion of DMCFI Tagisan ng Talino 2023.d51b0292e9de75e0fbfa.png",
+    "static/media/Champion of Logo Making Contest.png": "/portfolio/static/media/Champion of Logo Making Contest.d51b0292e9de75e0fbfa.png",
     "static/media/EVDR 02.png": "/portfolio/static/media/EVDR 02.f6e18c047a8fe32cdd37.png",
     "static/media/2.2 PWD LIFE.png": "/portfolio/static/media/2.2 PWD LIFE.5c028a0d8846028c4dc5.png",
     "static/media/2.6 Thesis Project.png": "/portfolio/static/media/2.6 Thesis Project.8ccc921d6a20fbf418fa.png",
     "static/media/MS Office.png": "/portfolio/static/media/MS Office.10b6edab22b1e6e23c1f.png",
     "static/media/2.5 PNSB Logo.png": "/portfolio/static/media/2.5 PNSB Logo.9967ef97227e83ee1805.png",
     "static/media/2.4 CCSS Logo.png": "/portfolio/static/media/2.4 CCSS Logo.7ac1313cec20f55c6b1d.png",
+    "static/media/Academic Excellence - 2nd year.png": "/portfolio/static/media/Academic Excellence - 2nd year.cc8d6b3be88e5b267c51.png",
     "static/media/Academic Excellence Award - 2nd Year - SY 2021-2022.jpg": "/portfolio/static/media/Academic Excellence Award - 2nd Year - SY 2021-2022.cc8d6b3be88e5b267c51.jpg",
     "static/media/Academic Excellence Award - 3rd Year - SY 2022-2023.jpg": "/portfolio/static/media/Academic Excellence Award - 3rd Year - SY 2022-2023.cc8d6b3be88e5b267c51.jpg",
     "static/media/Tailwind CSS.png": "/portfolio/static/media/Tailwind CSS.f0f26047a8933b822dae.png",
+    "static/media/Academic Excellence - 1st year.png": "/portfolio/static/media/Academic Excellence - 1st year.d85094a0a57d77aecdb6.png",
     "static/media/Academic Excellence Award - 1st Year - SY 2019-2020.jpg": "/portfolio/static/media/Academic Excellence Award - 1st Year - SY 2019-2020.d85094a0a57d77aecdb6.jpg",
     "static/media/WordPress.png": "/portfolio/static/media/WordPress.28458e0cebcdb25c9ac6.png",
     "static/media/2.1 Manga Store.png": "/portfolio/static/media/2.1 Manga Store.fd418f9e7ab9f573fccc.png",
@@ -20,21 +27,21 @@
     "static/media/CSS.png": "/portfolio/static/media/CSS.015d4e7819fe71e19c25.png",
     "static/media/MySQL.png": "/portfolio/static/media/MySQL.fedad3831336aeb21f31.png",
     "static/media/HTML.png": "/portfolio/static/media/HTML.ad1522b99775b918e086.png",
+    "static/media/MC.png": "/portfolio/static/media/MC.d80aecff914e83d23cb4.png",
     "static/media/JavaScript.png": "/portfolio/static/media/JavaScript.83f816a137ee2ef5f733.png",
-    "static/media/MC.png": "/portfolio/static/media/MC.3f476d3837ac7860f286.png",
+    "static/media/DMCFI.png": "/portfolio/static/media/DMCFI.f9d87d08a8c6f0e3abfb.png",
     "static/media/Bootstrap.png": "/portfolio/static/media/Bootstrap.f132cb791703420e69ca.png",
-    "static/media/DMCFI.png": "/portfolio/static/media/DMCFI.4afd34077e0473756828.png",
     "static/media/ReactJS.png": "/portfolio/static/media/ReactJS.a2203d7ec91fc9bc60d5.png",
     "static/media/VS Code.png": "/portfolio/static/media/VS Code.c6e78dde517994a49dc8.png",
     "static/media/Java.svg": "/portfolio/static/media/Java.68585ce8dadbd8ecebdc99a764c5c1cf.svg",
     "static/media/NodeJS.svg": "/portfolio/static/media/NodeJS.e55572852ea7a91f785f9c3a2102771a.svg",
     "static/media/Python.svg": "/portfolio/static/media/Python.62e8a4442709e711eb8c89041804c775.svg",
     "index.html": "/portfolio/index.html",
-    "main.86a21d16.css.map": "/portfolio/static/css/main.86a21d16.css.map",
-    "main.2af064e1.js.map": "/portfolio/static/js/main.2af064e1.js.map"
+    "main.2ccb19f6.css.map": "/portfolio/static/css/main.2ccb19f6.css.map",
+    "main.60b3ddfb.js.map": "/portfolio/static/js/main.60b3ddfb.js.map"
   },
   "entrypoints": [
-    "static/css/main.86a21d16.css",
-    "static/js/main.2af064e1.js"
+    "static/css/main.2ccb19f6.css",
+    "static/js/main.60b3ddfb.js"
   ]
 }
