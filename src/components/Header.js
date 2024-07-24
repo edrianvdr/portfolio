@@ -17,7 +17,7 @@ function Header() {
                         className="bg-white text-blue-800 border border-blue-800 hover:bg-blue-800 hover:text-white hover:border-white focus:bg-blue-800 focus:text-white focus:outline-none focus:border-white py-2 px-6 rounded-full text-lg font-semibold shadow-md transition duration-300"
                         onClick={handleResumeClick}
                     >
-                        Resume
+                        Résumé
                     </button>
                     {/* <Navigation /> */}
                 </div>

@@ -8,6 +8,7 @@ import Skills from './components/sections/Skills';
 import WorkExperience from './components/sections/WorkExperience';
 import Education from './components/sections/Education';
 import Awards from './components/sections/Awards';
+import Services from './components/sections/Services';
 import { useState } from 'react';
 
 function App() {
@@ -15,6 +16,16 @@ function App() {
     <>
       <Header />
       <div className="App">
+      <div className="w-full md:max-w-screen-xl mx-auto">
+        <Services />
+      </div>
+
+      <div className="bg-blue-800 my-4 py-4">
+        <div className="w-full md:max-w-screen-xl mx-auto">
+          <WorkExperience />
+        </div>
+      </div>
+
       <div className="w-full md:max-w-screen-xl mx-auto">
         <Projects />
       </div>
