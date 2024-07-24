@@ -2,8 +2,8 @@ import React from 'react';
 
 function Card(props) {
   return (
-    <div className="w-full p-2 text-center">
-      <div className="flex flex-col h-full max-w-xl mx-auto bg-white border border-blue-800 rounded-lg shadow hover:bg-blue-800 hover:text-white">
+    <div className="w-full text-center">
+      <div className="flex flex-col h-full max-w-xl mx-auto py-2 bg-white border border-blue-800 rounded-lg shadow hover:bg-blue-800 hover:text-white">
         <div className="flex-shrink-0 h-48 flex items-center justify-center">
 
           <img 
