@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d2e74ec4.css",
-    "main.js": "/portfolio/static/js/main.4bb79051.js",
+    "main.css": "/portfolio/static/css/main.a359153e.css",
+    "main.js": "/portfolio/static/js/main.eb0d9cc1.js",
     "static/media/Academic Excellence - 3rd year 2nd sem.png": "/portfolio/static/media/Academic Excellence - 3rd year 2nd sem.fc487f719f8d99f38587.png",
     "static/media/Academic Excellence - 3rd year 1st sem.png": "/portfolio/static/media/Academic Excellence - 3rd year 1st sem.5794adf5569580fc34ad.png",
     "static/media/Academic Excellence - 4th year.png": "/portfolio/static/media/Academic Excellence - 4th year.5794adf5569580fc34ad.png",
+    "static/media/Computer Trainer.png": "/portfolio/static/media/Computer Trainer.218217bf3b36423ef8cb.png",
+    "static/media/Live Streaming Technician.png": "/portfolio/static/media/Live Streaming Technician.87312b7759d053b234de.png",
     "static/media/Champion of DMCFI Tagisan ng Talino 2023.png": "/portfolio/static/media/Champion of DMCFI Tagisan ng Talino 2023.d51b0292e9de75e0fbfa.png",
     "static/media/Champion of Logo Making Contest.png": "/portfolio/static/media/Champion of Logo Making Contest.d51b0292e9de75e0fbfa.png",
+    "static/media/Web Developer Intern.png": "/portfolio/static/media/Web Developer Intern.4fabed4499160b0154ee.png",
     "static/media/EVDR 02.png": "/portfolio/static/media/EVDR 02.f6e18c047a8fe32cdd37.png",
     "static/media/2.2 PWD LIFE.png": "/portfolio/static/media/2.2 PWD LIFE.5c028a0d8846028c4dc5.png",
     "static/media/2.6 Thesis Project.png": "/portfolio/static/media/2.6 Thesis Project.8ccc921d6a20fbf418fa.png",
@@ -23,25 +26,29 @@
     "static/media/2.1 Manga Store.png": "/portfolio/static/media/2.1 Manga Store.fd418f9e7ab9f573fccc.png",
     "static/media/2.3 PWD Database.png": "/portfolio/static/media/2.3 PWD Database.f067899d1a1d722bd1fd.png",
     "static/media/Laravel.png": "/portfolio/static/media/Laravel.be3f622df04a403a80e5.png",
+    "static/media/Web Accessibility.png": "/portfolio/static/media/Web Accessibility.60e6e1142e9d218e2297.png",
     "static/media/W3C Accessibility.png": "/portfolio/static/media/W3C Accessibility.3bb2e887e0c7759812e4.png",
     "static/media/CSS.png": "/portfolio/static/media/CSS.015d4e7819fe71e19c25.png",
+    "static/media/Website Maintenance.png": "/portfolio/static/media/Website Maintenance.707d3dccee76b39abc8d.png",
+    "static/media/Web Development.png": "/portfolio/static/media/Web Development.aaf603f6d67780ca38b9.png",
     "static/media/MySQL.png": "/portfolio/static/media/MySQL.fedad3831336aeb21f31.png",
     "static/media/HTML.png": "/portfolio/static/media/HTML.ad1522b99775b918e086.png",
     "static/media/MC.png": "/portfolio/static/media/MC.d80aecff914e83d23cb4.png",
     "static/media/JavaScript.png": "/portfolio/static/media/JavaScript.83f816a137ee2ef5f733.png",
     "static/media/DMCFI.png": "/portfolio/static/media/DMCFI.f9d87d08a8c6f0e3abfb.png",
     "static/media/Bootstrap.png": "/portfolio/static/media/Bootstrap.f132cb791703420e69ca.png",
+    "static/media/Responsive Design.png": "/portfolio/static/media/Responsive Design.2c2eef84ffa21a193a9e.png",
     "static/media/ReactJS.png": "/portfolio/static/media/ReactJS.a2203d7ec91fc9bc60d5.png",
     "static/media/VS Code.png": "/portfolio/static/media/VS Code.c6e78dde517994a49dc8.png",
     "static/media/Java.svg": "/portfolio/static/media/Java.68585ce8dadbd8ecebdc99a764c5c1cf.svg",
     "static/media/NodeJS.svg": "/portfolio/static/media/NodeJS.e55572852ea7a91f785f9c3a2102771a.svg",
     "static/media/Python.svg": "/portfolio/static/media/Python.62e8a4442709e711eb8c89041804c775.svg",
     "index.html": "/portfolio/index.html",
-    "main.d2e74ec4.css.map": "/portfolio/static/css/main.d2e74ec4.css.map",
-    "main.4bb79051.js.map": "/portfolio/static/js/main.4bb79051.js.map"
+    "main.a359153e.css.map": "/portfolio/static/css/main.a359153e.css.map",
+    "main.eb0d9cc1.js.map": "/portfolio/static/js/main.eb0d9cc1.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2e74ec4.css",
-    "static/js/main.4bb79051.js"
+    "static/css/main.a359153e.css",
+    "static/js/main.eb0d9cc1.js"
   ]
 }
