@@ -1,5 +1,3 @@
-import Navigation from './Navigation';
-
 import edrianImage from '../assets/images/EVDR 02.png';
 
 function Header() {
