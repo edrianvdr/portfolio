@@ -1,7 +1,11 @@
+import Navigation from '../components/Navigation';
+
 function Footer() {
+
     return (
         <>
             <footer className="w-full border-t bg-blue-800 text-white py-4 text-center text-xs sm:text-sm md:text-lg mt-8">
+                <Navigation />
                 <p>
                     © 2024 All Rights Reserved | Edrian Delos Reyes
                 </p>

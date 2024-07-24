@@ -1,4 +1,5 @@
-import Card from '../../components/Card';
+import Heading2 from '../../components/Heading2.1';
+import Card from '../../components/Card.1';
 
 // Education Images
 import dmcfi from '../../assets/images/about/education/DMCFI.png';
@@ -13,11 +14,9 @@ import tagisanNgTalino from '../../assets/images/about/certificates/Academic Exc
 const Education = () => {
     return (
         <>
-            <h2 className="font-bold text-gray-800 text-xl sm:text-2xl md:text-3xl lg:text-4xl my-4 hover:text-gray-700 text-center">
-                Education
-            </h2>
+            <Heading2 h2="Education" />
 
-            <div className="flex flex-wrap justify-center">
+            <div className="flex w-full justify-center grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-1">
                 <Card
                     title="Bachelor of Science in Computer Science"
                     description="Divine Mercy College Foundation, Inc / 2019, 2021-2024"

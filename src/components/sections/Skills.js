@@ -1,3 +1,4 @@
+import Heading2 from '../../components/Heading2.1';
 import SkillCard from '../../components/SkillCard';
 
 // Skills Images
@@ -21,33 +22,25 @@ import msoffice from '../../assets/images/skills/MS Office.png';
 const Skills = () => {
     return (
         <>
-            {/* <h1 className="font-bold text-gray-800 uppercase text-2xl sm:text-3xl md:text-4xl lg:text-5xl hover:text-gray-700" id="projects">
-                Edrian Delos Reyes
-            </h1> */}
+            <Heading2 h2="Skills" /> 
 
-        <div>
-                <h2 className="font-bold text-gray-800 text-xl sm:text-2xl md:text-3xl lg:text-4xl mb-2 hover:text-gray-700 text-center">
-                    Skills
-                </h2>
-
-                <div className="flex flex-wrap  justify-center">
-                    <SkillCard src={ laravel } skill="Laravel" />
-                    <SkillCard src={mysql} skill="MySQL" />
-                    <SkillCard src={tailwind} skill="Tailwind CSS" />
-                    <SkillCard src={bootstrap} skill="Bootstrap" />
-                    <SkillCard src={reactjs} skill="ReactJS" />
-                    <SkillCard src={w3cAccessibility} skill="W3C Accessibility" />
-                    <SkillCard src={html} skill="HTML" />
-                    <SkillCard src={css} skill="CSS" />
-                    <SkillCard src={javascript} skill="JavaScript" />
-                    <SkillCard src={vscode} skill="VS Code" />
-                    <SkillCard src={github} skill="GitHub" />
-                    <SkillCard src={wordpress} skill="WordPress" />
-                    <SkillCard src={nodejs} skill="NodeJS" />
-                    <SkillCard src={java} skill="Java" />
-                    <SkillCard src={python} skill="Python" />
-                    <SkillCard src={msoffice} skill="MS Office" />
-                </div>
+            <div className="flex flex-wrap justify-center grid grid-cols-3 sm:grid-cols-4 lg:grid-cols-5 gap-1">
+                <SkillCard src={ laravel } skill="Laravel" />
+                <SkillCard src={mysql} skill="MySQL" />
+                <SkillCard src={tailwind} skill="Tailwind CSS" />
+                <SkillCard src={bootstrap} skill="Bootstrap" />
+                <SkillCard src={reactjs} skill="ReactJS" />
+                <SkillCard src={w3cAccessibility} skill="W3C Accessibility" />
+                <SkillCard src={html} skill="HTML" />
+                <SkillCard src={css} skill="CSS" />
+                <SkillCard src={javascript} skill="JavaScript" />
+                <SkillCard src={vscode} skill="VS Code" />
+                <SkillCard src={github} skill="GitHub" />
+                <SkillCard src={wordpress} skill="WordPress" />
+                <SkillCard src={nodejs} skill="NodeJS" />
+                <SkillCard src={java} skill="Java" />
+                <SkillCard src={python} skill="Python" />
+                <SkillCard src={msoffice} skill="MS Office" />
             </div>
         </>
     );

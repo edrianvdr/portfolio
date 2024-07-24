@@ -1,3 +1,4 @@
+import Heading2 from '../../components/Heading2';
 import Project from '../../components/Project';
 
 // Images
@@ -11,9 +12,8 @@ import thesis from '../../assets/images/projects/2.6 Thesis Project.png';
 const Awards = () => {
     return (
         <>
-            <h2 className="font-bold text-gray-800 text-xl sm:text-2xl md:text-3xl lg:text-4xl mb-2 hover:text-gray-700 text-center">
-              Projects
-          </h2>
+            <Heading2 h2="Work Experience" />
+
             <div className="flex flex-wrap max-w-4xl w-full sm:w-auto mx-auto grid gap-8 sm:grid-cols-3">
             <Project 
                 name='Thesis' 

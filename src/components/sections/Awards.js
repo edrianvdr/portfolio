@@ -1,3 +1,4 @@
+import Heading2 from '../../components/Heading2';
 import Card from '../../components/Card';
 
 // Awards Images
@@ -12,11 +13,9 @@ import championLmc from '../../assets/images/about/certificates/Champion of Logo
 const Awards = () => {
     return (
         <>
-            <h2 className="font-bold text-gray-800 text-xl sm:text-2xl md:text-3xl lg:text-4xl mb-2 hover:text-gray-700 text-center">
-                Awards
-            </h2>
+            <Heading2 h2="Awards" />
 
-            <div className="flex flex-wrap justify-center">
+            <div className="flex flex-wrap justify-center grid grid-cols-1 sm:grid-cols-2 lg xl:grid-cols-4">
                 <Card
                     title="Academic Excellence Award (1st Year)"
                     description="Received on my 1st year in college during the school year 2019 to 2020"
