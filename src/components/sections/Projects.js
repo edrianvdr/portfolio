@@ -83,7 +83,7 @@ const Awards = () => {
             onClick={loadMore}
             className="inline-flex items-center px-8 py-4 bg-blue-800 text-white text-4xl font-bold rounded-full border hover:bg-white hover:text-blue-800 hover:border-blue-800 focus:outline-none focus:bg-white focus:text-blue-800 focus:border-blue-800 transition duration:300"
           >
-            See More
+            See More <span className="sr-only">Projects</span>
           </button>
         </div>
       )}
