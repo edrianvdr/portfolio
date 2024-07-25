@@ -16,7 +16,7 @@ const Services = () => {
 
             <div className="flex flex-wrap justify-center grid grid-cols-2 lg xl:grid-cols-4 gap-4">
                 <Card
-                    title="Web Website Development"
+                    title="Web Development"
                     description="Let's create your personal or business website following the best practices."
                     src={ webDevelopment }
                     alt="Less than, slash, and greater than icon"
@@ -35,7 +35,7 @@ const Services = () => {
                 />
                 <Card
                     title="Website Maintenance"
-                    description="Received on my 3rd year 2nd sem in college during the school year 2022 to 2023"
+                    description="Maintain your website up and running with the most updated content."
                     src={ websiteMaintenance }
                     alt="Icon of the web with a gear"
                 />
