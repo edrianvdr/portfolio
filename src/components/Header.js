@@ -4,7 +4,7 @@ import edrianImage from '../assets/images/EVDR 02.png';
 
 function Header() {
     const handleResumeClick = () => {
-        window.open(`portfolio/documents/Resume.pdf`, '_blank');
+        window.open(`documents/Resume.pdf`, '_blank');
     };
 
     return (
