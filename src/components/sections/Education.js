@@ -1,3 +1,4 @@
+import React from 'react';
 import Heading2 from '../../components/Heading2.1';
 import Card from '../../components/Card.1';
 

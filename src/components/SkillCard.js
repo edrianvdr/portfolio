@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 function SkillCard(props) {
   return (
@@ -20,5 +21,10 @@ function SkillCard(props) {
     </div>
   );
 }
+
+SkillCard.propTypes = {
+  src: PropTypes.string.isRequired,
+  skill: PropTypes.string.isRequired,
+};
 
 export default SkillCard;

@@ -1,3 +1,5 @@
+import React from 'react';
+
 import Heading2 from '../../components/Heading2.1';
 import SkillCard from '../../components/SkillCard';
 

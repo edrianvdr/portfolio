@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+
 import Heading2 from '../../components/Heading2';
 import Project from '../../components/Project';
 
@@ -81,7 +82,7 @@ const Awards = () => {
         <div className="text-center mt-4">
           <button
             onClick={loadMore}
-            className="inline-flex items-center px-8 py-4 bg-blue-800 text-white text-4xl font-medium rounded-full border hover:bg-white hover:text-blue-800 hover:border-blue-800 focus:outline-none focus:bg-white focus:text-blue-800 focus:border-blue-800 transition duration:300"
+            className="inline-flex items-center px-4 py-2 md:px-6 xl:px-8 md:py-4 bg-blue-800 text-xl md:text-2xl lg:text-3xl xl:text-white text-4xl font-medium rounded-full border hover:bg-white hover:text-blue-800 hover:border-blue-800 focus:outline-none focus:bg-white focus:text-blue-800 focus:border-blue-800 transition duration:300"
           >
             See More <span className="sr-only">Projects</span>
           </button>

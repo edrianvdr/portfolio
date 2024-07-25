@@ -77,7 +77,7 @@ const WorkExperience = () => {
         <div className="text-center mt-4">
           <button
             onClick={loadMore}
-            className="inline-flex items-center px-8 py-4 bg-white text-blue-800 text-4xl font-medium rounded-full border hover:bg-blue-800 hover:text-white hover:border-white focus:outline-none focus:bg-blue-800 focus:text-white focus:border-white transition duration-300"
+            className="inline-flex items-center px-4 py-2 md:px-6 xl:px-8 md:py-4 bg-white text-blue-800 text-xl md:text-2xl lg:text-3xl xl:text-4xl font-medium rounded-full border hover:bg-blue-800 hover:text-white hover:border-white focus:outline-none focus:bg-blue-800 focus:text-white focus:border-white transition duration-300"
           >
             See More <span className="sr-only">Projects</span>
           </button>

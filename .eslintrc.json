@@ -1,0 +1,21 @@
+{
+    "extends": [
+        "eslint:recommended",
+        "plugin:react/recommended",
+        "plugin:jsx-a11y/recommended"
+    ],
+    "rules": {
+        "no-unused-vars": "warn",
+        "jsx-a11y/no-access-key": "warn",
+        "jsx-a11y/anchor-is-valid": "warn"
+    },
+    "parserOptions": {
+        "ecmaVersion": 2020,
+        "sourceType": "module"
+    },
+    "settings": {
+        "react": {
+            "version": "detect"
+        }
+    }
+}

@@ -1,10 +1,15 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
-function Work({ src, alt, name, descriptionList, href, reverse }) {
+function Work({ src, alt, name, descriptionList, reverse }) {
   return (
-    <div className={`flex ${reverse ? 'flex-row-reverse' : 'flex-row'} max-w-full mx-auto text-white h-full`}>
-      <img className="w-1/2 h-full object-cover" src={src} alt={alt} />
-      <div className="flex-1 p-6 flex flex-col justify-between">
+    <div className={`flex flex-col ${reverse ? 'md:flex-row-reverse' : 'md:flex-row'} max-w-full mx-auto text-white px-8 py-6`}>
+      {/* Image takes up full width on xs and sm screens */}
+      <div className="w-full md:w-1/2">
+        <img className="w-full h-full object-cover" src={src} alt={alt} />
+      </div>
+      {/* Text section takes up full width on xs and sm screens */}
+      <div className="w-full md:w-1/2 p-6 flex flex-col justify-between">
         <div>
           <h3 className="text-3xl font-bold">{name}</h3>
           <ul className="list-disc list-inside mt-2">
@@ -17,5 +22,19 @@ function Work({ src, alt, name, descriptionList, href, reverse }) {
     </div>
   );
 }
+
+// Define PropTypes for the Work component
+Work.propTypes = {
+  src: PropTypes.string.isRequired,
+  alt: PropTypes.string.isRequired,
+  name: PropTypes.string.isRequired,
+  descriptionList: PropTypes.arrayOf(PropTypes.string).isRequired,
+  reverse: PropTypes.bool,
+};
+
+// Set default props if needed
+Work.defaultProps = {
+  reverse: false,
+};
 
 export default Work;
