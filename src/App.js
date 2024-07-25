@@ -15,8 +15,8 @@ function App() {
     <>
       <Header />
       <div className="App">
-      <div className="w-full md:max-w-screen-xl mx-auto px-2">
-        
+      <div className="w-full md:max-w-screen-xl mx-auto px-24">
+        <Services />
       </div>
 
       <div className="bg-blue-800 my-4 py-4">
