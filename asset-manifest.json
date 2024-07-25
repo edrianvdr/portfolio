@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a359153e.css",
-    "main.js": "/portfolio/static/js/main.eb0d9cc1.js",
+    "main.css": "/portfolio/static/css/main.c266442a.css",
+    "main.js": "/portfolio/static/js/main.17a023c4.js",
     "static/media/Academic Excellence - 3rd year 2nd sem.png": "/portfolio/static/media/Academic Excellence - 3rd year 2nd sem.fc487f719f8d99f38587.png",
     "static/media/Academic Excellence - 3rd year 1st sem.png": "/portfolio/static/media/Academic Excellence - 3rd year 1st sem.5794adf5569580fc34ad.png",
     "static/media/Academic Excellence - 4th year.png": "/portfolio/static/media/Academic Excellence - 4th year.5794adf5569580fc34ad.png",
@@ -17,11 +17,8 @@
     "static/media/2.5 PNSB Logo.png": "/portfolio/static/media/2.5 PNSB Logo.9967ef97227e83ee1805.png",
     "static/media/2.4 CCSS Logo.png": "/portfolio/static/media/2.4 CCSS Logo.7ac1313cec20f55c6b1d.png",
     "static/media/Academic Excellence - 2nd year.png": "/portfolio/static/media/Academic Excellence - 2nd year.cc8d6b3be88e5b267c51.png",
-    "static/media/Academic Excellence Award - 2nd Year - SY 2021-2022.jpg": "/portfolio/static/media/Academic Excellence Award - 2nd Year - SY 2021-2022.cc8d6b3be88e5b267c51.jpg",
-    "static/media/Academic Excellence Award - 3rd Year - SY 2022-2023.jpg": "/portfolio/static/media/Academic Excellence Award - 3rd Year - SY 2022-2023.cc8d6b3be88e5b267c51.jpg",
     "static/media/Tailwind CSS.png": "/portfolio/static/media/Tailwind CSS.f0f26047a8933b822dae.png",
     "static/media/Academic Excellence - 1st year.png": "/portfolio/static/media/Academic Excellence - 1st year.d85094a0a57d77aecdb6.png",
-    "static/media/Academic Excellence Award - 1st Year - SY 2019-2020.jpg": "/portfolio/static/media/Academic Excellence Award - 1st Year - SY 2019-2020.d85094a0a57d77aecdb6.jpg",
     "static/media/WordPress.png": "/portfolio/static/media/WordPress.28458e0cebcdb25c9ac6.png",
     "static/media/2.1 Manga Store.png": "/portfolio/static/media/2.1 Manga Store.fd418f9e7ab9f573fccc.png",
     "static/media/2.3 PWD Database.png": "/portfolio/static/media/2.3 PWD Database.f067899d1a1d722bd1fd.png",
@@ -44,11 +41,11 @@
     "static/media/NodeJS.svg": "/portfolio/static/media/NodeJS.e55572852ea7a91f785f9c3a2102771a.svg",
     "static/media/Python.svg": "/portfolio/static/media/Python.62e8a4442709e711eb8c89041804c775.svg",
     "index.html": "/portfolio/index.html",
-    "main.a359153e.css.map": "/portfolio/static/css/main.a359153e.css.map",
-    "main.eb0d9cc1.js.map": "/portfolio/static/js/main.eb0d9cc1.js.map"
+    "main.c266442a.css.map": "/portfolio/static/css/main.c266442a.css.map",
+    "main.17a023c4.js.map": "/portfolio/static/js/main.17a023c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.a359153e.css",
-    "static/js/main.eb0d9cc1.js"
+    "static/css/main.c266442a.css",
+    "static/js/main.17a023c4.js"
   ]
 }
