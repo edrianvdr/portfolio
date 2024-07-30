@@ -14,7 +14,7 @@ import championLmc from '../../assets/images/about/certificates/Champion of Logo
 
 const Awards = () => {
     return (
-        <>
+        <div className="py-16">
             <Heading2 h2="Awards" />
 
             <div className="flex flex-wrap justify-center grid grid-cols-1 sm:grid-cols-2 lg xl:grid-cols-4">
@@ -61,7 +61,7 @@ const Awards = () => {
                     alt="Certificate of Recognition for winning the CCSS Logo Making Contest"
                 />
             </div>
-        </>
+        </div>
     );
 }
 

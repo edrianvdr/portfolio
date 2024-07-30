@@ -29,7 +29,7 @@ function App() {
         <Projects />
       </div>
 
-      <div className="bg-blue-800 my-4 py-4">
+      <div className="bg-blue-800 my-4 py-16">
         <div className="w-full md:max-w-screen-xl mx-auto">
           <div className="grid grid-cols-1 px-4 md:px-0 lg:grid-cols-5 gap-4">
               <div className="lg:col-span-2">

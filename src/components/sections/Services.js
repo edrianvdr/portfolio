@@ -11,7 +11,7 @@ import websiteMaintenance from '../../assets/images/services/Website Maintenance
 
 const Services = () => {
     return (
-        <>
+        <div className="py-16">
             <Heading2 h2="Services" />
 
             <div className="flex flex-wrap justify-center grid grid-cols-2 lg xl:grid-cols-4 gap-4">
@@ -40,7 +40,7 @@ const Services = () => {
                     alt="Icon of the web with a gear"
                 />
             </div>
-        </>
+        </div>
     );
 }
 

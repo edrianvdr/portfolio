@@ -64,7 +64,7 @@ const Awards = () => {
   };
 
   return (
-    <>
+    <div className="py-16">
       <Heading2 h2="Projects" />
       <div className="flex w-full sm:w-auto mx-auto grid gap-4 sm:grid-cols-2">
         {projects.slice(0, visibleCount).map((project, index) => (
@@ -88,7 +88,7 @@ const Awards = () => {
           </button>
         </div>
       )}
-    </>
+    </div>
   );
 };
 

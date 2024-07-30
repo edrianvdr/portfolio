@@ -58,7 +58,7 @@ const WorkExperience = () => {
   };
 
   return (
-    <>
+    <div className="py-16">
       <Heading2 h2="Work Experience" />
       <div className="flex w-full sm:w-auto mx-auto grid gap-8 grid-cols-1">
         {projects.slice(0, visibleCount).map((project, index) => (
@@ -83,7 +83,7 @@ const WorkExperience = () => {
           </button>
         </div>
       )}
-    </>
+    </div>
   );
 };
 
