@@ -15,7 +15,7 @@ function ContactMe() {
 
     emailjs.sendForm('service_wkv33mk', 'template_8aiigsf', e.target, 'WPoQKXWl0g1ouGj_t')
       .then(() => {
-        setStatus('Success! Your message has been sent.');
+        setStatus('Your message has been sent.');
         setFormData({ user_name: '', user_email: '', message: '' });
       })
       .catch(() => setStatus('Error! Something went wrong.'));
@@ -70,7 +70,7 @@ function ContactMe() {
               Send Message <span className="sr-only">&nbsp;to Edrian Delos Reyes</span>
             </button>
           </form>
-          {status && <p className="mt-4 text-center text-gray-700">{status}</p>}
+          {status && <p className="mt-4 text-center text-white">{status}</p>}
         </div>
       </div>
     </div>
