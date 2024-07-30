@@ -1,6 +1,6 @@
 import React from 'react';
 
-import edrianImage from '../assets/images/EVDR 02.png';
+import edrianImage from '../../assets/images/EVDR 02.png';
 
 function Header() {
     const handleResumeClick = () => {
