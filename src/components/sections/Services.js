@@ -11,10 +11,10 @@ import websiteMaintenance from '../../assets/images/services/Website Maintenance
 
 const Services = () => {
     return (
-        <div className="py-16">
+        <div className="py-16 px-4 sm:px-2 xl:px-0">
             <Heading2 h2="Services" />
 
-            <div className="flex flex-wrap justify-center grid grid-cols-2 lg xl:grid-cols-4 gap-4">
+            <div className="flex flex-wrap justify-center grid grid-cols-2 lg:grid-cols-4 gap-1 lg:gap-2 xl:gap-4">
                 <Card
                     title="Web Development"
                     description="Let's create your personal or business website following the best practices."

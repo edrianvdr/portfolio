@@ -14,7 +14,7 @@ import championLmc from '../../assets/images/about/certificates/Champion of Logo
 
 const Awards = () => {
     return (
-        <div className="py-16">
+        <div className="py-16 px-4 sm:px-2 xl:px-0">
             <Heading2 h2="Awards" />
 
             <div className="flex flex-wrap justify-center grid grid-cols-1 sm:grid-cols-2 lg xl:grid-cols-4">

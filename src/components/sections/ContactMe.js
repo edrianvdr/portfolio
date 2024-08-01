@@ -22,8 +22,8 @@ function ContactMe() {
   };
 
   return (
-    <div className="py-16 text-white">
-      <div className="px-0 mx-auto sm:px-4 md:px-8">
+    <div className="py-16 px-4 sm:px-2 xl:px-0 text-white">
+      <div className="mx-auto sm:px-4 md:px-8">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-3xl font-bold text-center  mb-6" id="ContactMe">Contact Me</h2>
           <form onSubmit={handleSubmit} className="space-y-6">
