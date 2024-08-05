@@ -22,7 +22,7 @@ const projects = [
     href: 'https://github.com/edrianvdr/thesis',
   },
   {
-    name: 'Live Streaming Technician',
+    name: 'Technical Support',
     descriptionList: [
       'Collaborated with different professionals from different fields',
       'Managed social media of Elmer Francisco (Facebook Page)',
